@@ -6,7 +6,7 @@
 
 ```
 @State private var isSubscribed = false
-
+```
 
 2. onTapGesture 안에 애니메이션 구현
 
